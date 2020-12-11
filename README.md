@@ -19,6 +19,6 @@
 ## Overview
 ---
 * With the help of python script data scraping is done in this project. Python BeautifulSoup library does the major role in it. Along with that request library is also used. You can check entire code in scraple.py
-* Csv package is used to store all the extracted data into Amazon.csv file.
+* Csv package is used to store all the extracted data into indeed.csv file.
 * The project is done with and without the help of selenium package. 
 
