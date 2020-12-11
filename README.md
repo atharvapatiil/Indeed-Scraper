@@ -3,7 +3,7 @@
 
 * This is an Indeed Web Scraper used to job posting data from **Indeed** search page and stores that data into **.csv** file. We just have to enter the name of the job you are looking and it will give all the job posting information in the .csv file.
 * This is a screenshot of .csv file.
-    * <img  width="500" height="300" src="Indeed_CSV_SS.png">
+    * <img  width="600" height="400" src="Indeed_CSV_SS.png">
 
 ## Features
 ---
