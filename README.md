@@ -1,4 +1,4 @@
-# Indeed Web Scraper <img align="right" width="180" height="50" src="Indeed_logo.jpg">
+# Indeed Web Scraper <img align="right" width="180" height="50" src="Indeed_Logo.jpg">
             
 
 * This is an Indeed Web Scraper used to job posting data from **Indeed** search page and stores that data into **.csv** file. We just have to enter the name of the job you are looking and it will give all the job posting information in the .csv file.
